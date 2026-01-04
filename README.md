@@ -57,11 +57,16 @@ Currently pursuing B.Tech in Information Technology and actively building produc
 
 ✨ *Always learning, always building.*
 
+---
+
 ### 📊 GitHub Stats
 
-![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikPandey278&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikPandey278&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikPandey278&layout=compact&theme=tokyonight" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikPandey278&layout=compact&theme=tokyonight)
 
 ### 🤝 Connect With Me
 - LinkedIn: https://linkedin.com/in/your-link

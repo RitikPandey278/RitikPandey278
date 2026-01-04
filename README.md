@@ -62,9 +62,9 @@ Currently pursuing B.Tech in Information Technology and actively building produc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitikPandey278&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikPandey278&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikPandey278&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikPandey278&layout=compact&theme=github_dark" />
 </div>
 
 

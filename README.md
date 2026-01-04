@@ -6,6 +6,8 @@ Building real-world scalable applications
 
 </div>
 
+
+
 ### 🚀 About Me  
 I am a Full Stack and Android Developer with hands-on experience in building web and mobile applications.  
 I have worked on real-world projects using MERN stack and Android (Java + Firebase), focusing on performance, scalability, and clean UI/UX.
@@ -15,18 +17,11 @@ Currently pursuing B.Tech in Information Technology and actively building produc
 <div align="center">
   <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif" width="400" />
 </div>
-
-
-
+</br>
 
 <strong>🛠 Tech Stack</strong>
 
-<br>
-"Languages:"
-</br>
-<a></a>
-
-**:** Java • JavaScript • C++ • Python • SQL  
+**Languages:** Java • JavaScript • C++ • Python • SQL  
 **Frontend:** HTML • CSS • React • Tailwind  
 **Backend:** Node.js • Express • REST APIs  
 **Mobile:** Android (Java, XML, Firebase)  
@@ -48,13 +43,39 @@ Currently pursuing B.Tech in Information Technology and actively building produc
 • Built Android apps using Java & XML  
 • Integrated Firebase auth & real-time database
 
+<p dir="auto">
+  "🌟"
+  <strong>What I Do</strong>
+</p>
+<ul dir="auto">
+  <li>
+    ::marker
+    "Create responsive, mobile-first websites & apps"
+  </li>
+  <li>
+    ::marker
+    "Build APIs & Backend Systems"
+  </li>
+  <li>
+    ::marker
+    "Integrate smooth animation & motion"
+  </li>
+  <li>
+    ::marker
+    "Optimize for performance & scalability"
+  </li>
+</ul>
 
-✨ *Always learning, always building.*
+<strong>📫 Let’s Connect</strong>
+
+<a href="pandeyritik278@gmail.com">Email</a> |
+<a href="https://eloquent-kheer-ed98a8.netlify.app/">Portfolio</a>
+
+
 
 ---
+✨ *Always learning, always building.*
 
-< 🤝 Connect With Me
- Portfolio | LinkedIn
 
 
 

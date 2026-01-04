@@ -12,11 +12,21 @@ I have worked on real-world projects using MERN stack and Android (Java + Fireba
 
 Currently pursuing B.Tech in Information Technology and actively building production-level applications.
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif" width="400" />
+</div>
 
 
-### 🛠 Tech Stack
 
-**Languages:** Java • JavaScript • C++ • Python • SQL  
+
+<strong>🛠 Tech Stack</strong>
+
+<br>
+"Languages:"
+</br>
+<a></a>
+
+**:** Java • JavaScript • C++ • Python • SQL  
 **Frontend:** HTML • CSS • React • Tailwind  
 **Backend:** Node.js • Express • REST APIs  
 **Mobile:** Android (Java, XML, Firebase)  
@@ -39,39 +49,12 @@ Currently pursuing B.Tech in Information Technology and actively building produc
 • Integrated Firebase auth & real-time database
 
 
-### 🚀 Featured Projects
-
-**AgriAid AI (MERN Stack)**  
-• Agriculture platform for crop monitoring & disease detection  
-• AI features, weather updates & market prices  
-
-**Tomato Food Delivery Website**  
-• Responsive food ordering site with cart & checkout  
-• Built using React, HTML, CSS & JavaScript  
-
-**Organic Food Store (Android App)**  
-• Android app with authentication, cart & checkout  
-• Firebase real-time updates & APIs
-
----
-
 ✨ *Always learning, always building.*
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitikPandey278&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikPandey278&layout=compact&theme=github_dark" />
-</div>
-
-
-### 🤝 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://eloquent-kheer-ed98a8.netlify.app/
-
+< 🤝 Connect With Me
+ Portfolio | LinkedIn
 
 
 
